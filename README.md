@@ -1,4 +1,4 @@
 # winget-install-script
 Install winget via powershell
 
-Yoi need to be running Windows 10, and it can be launched just by double clicking the ps1 file, may have to allow script to run via powershell first
+You need to be running Windows 10. It can be launched just by double clicking the ps1 file, you may have to allow scripts to run via powershell first
