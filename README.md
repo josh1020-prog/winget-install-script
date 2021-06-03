@@ -1,2 +1,2 @@
 # winget-install-script
-Install winget 
+Install winget via powershell
